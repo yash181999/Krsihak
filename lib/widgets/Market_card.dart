@@ -3,7 +3,7 @@ import 'package:trooper_hackout/resources/color.dart';
 
 
 class MarketCard extends StatelessWidget {
-  String CropName , CurrentPrice , arrow;
+  final  CropName , CurrentPrice , arrow;
   MarketCard({this.CropName , this.CurrentPrice , this.arrow});
 
   @override

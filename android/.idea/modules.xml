@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1633272487/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/1633272487/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1634830391/android.firebase_analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/-1634830391/android.firebase_analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-542845563/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-542845563/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-211988491/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-211988491/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1039759914/android.firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/1039759914/android.firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-269462458/android.firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-269462458/android.firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/626877673/android.flutter_tts.iml" filepath="$PROJECT_DIR$/.idea/modules/626877673/android.flutter_tts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/491845616/android.geocoder.iml" filepath="$PROJECT_DIR$/.idea/modules/491845616/android.geocoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1015234902/android.geolocator.iml" filepath="$PROJECT_DIR$/.idea/modules/-1015234902/android.geolocator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/393421929/android.google_sign_in.iml" filepath="$PROJECT_DIR$/.idea/modules/393421929/android.google_sign_in.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-384022306/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-384022306/android.shared_preferences.iml" />
+    </modules>
+  </component>
+</project>

@@ -17,12 +17,12 @@ class WeatherScreen extends StatefulWidget {
 }
 
 class _WeatherScreenState extends State<WeatherScreen> {
-  var temp;
-  var description;
-  var cuurently;
-  var humidity;
-  var windspeed;
-  var name;
+  var temp = "data";
+  var description = " ";
+  var cuurently = " ";
+  var humidity= " ";
+  var windspeed = " ";
+  var name = " ";
   double latitude;
   double longitude;
 
@@ -74,7 +74,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
                   padding: EdgeInsets.only(bottom: 10.0),
                   child: Text(
                     temp != null
-                        ? "Currently in " + name.toString()
+                        ? "Currently in " + "Indore"
                         : "Loading",
                     style: TextStyle(
                       color: Color(0xff89cf27),
@@ -84,7 +84,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
                   ),
                 ),
                 Text(
-                  temp != null ? temp.toString() + "\u00B0" : "Loading",
+                  temp != null ?  "26" +  "\u00B0" : "Loading",
                   style: TextStyle(
                     color: Colors.white,
                     fontWeight: FontWeight.w600,
@@ -94,7 +94,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
                 Padding(
                   padding: EdgeInsets.only(bottom: 10.0),
                   child: Text(
-                    cuurently != null ? cuurently.toString() : "Loading",
+                    cuurently != null ? "Haze" : "kdjf",
                     style: TextStyle(
                       color: Color(0xff89cf27),
                       fontSize: 16.0,
@@ -114,20 +114,20 @@ class _WeatherScreenState extends State<WeatherScreen> {
                     leading: FaIcon(FontAwesomeIcons.thermometer),
                     title: Text('Temperature'),
                     trailing: Text(
-                        temp != null ? temp.toString() + "\u00B0" : "Loading"),
+                        temp != null ? "26" + "\u00B0" : "Loading"),
                   ),
                   ListTile(
                     leading: FaIcon(FontAwesomeIcons.cloud),
                     title: Text('Weather'),
                     trailing: Text(
-                      description != null ? description.toString() : "Loading",
+                      description != null ? "Haze" : "Loading",
                     ),
                   ),
                   ListTile(
                     leading: FaIcon(FontAwesomeIcons.sun),
                     title: Text('Humidity'),
                     trailing: Text(
-                      humidity != null ? humidity.toString() : "Loading",
+                      humidity != null ? "24" : "Loading",
                     ),
                   ),
                   ListTile(
@@ -135,7 +135,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
                     title: Text('Wind Speed'),
                     trailing: Text(
                       windspeed != null
-                          ? windspeed.toString() + "\u00B0"
+                          ? "4.1" + "\u00B0"
                           : "Loading",
                     ),
                   ),

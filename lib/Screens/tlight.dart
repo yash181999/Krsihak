@@ -6,6 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:tflite/tflite.dart';
 import 'package:trooper_hackout/Screens/NavDrawer.dart';
+import 'package:trooper_hackout/Screens/experts.dart';
 import 'package:trooper_hackout/resources/color.dart';
 import 'dart:io';
 import 'package:trooper_hackout/widgets/app_bar.dart';
@@ -112,10 +113,13 @@ class _TlightState extends State<Tlight> {
       backgroundColor: Colors.white,
       appBar: appbar(title: "Agriculture Solution"),
 
-      floatingActionButton: FloatingActionButton.extended(
-        onPressed: (){},
-        icon: Icon(Icons.people),
-        label: Text("Experts"),
+      floatingActionButton: FloatingActionButton(
+        onPressed: (){
+          Navigator.push(context, MaterialPageRoute(
+            builder: (context) => Experts(),
+          ));
+        },
+
         backgroundColor: secondary,
       ),
 

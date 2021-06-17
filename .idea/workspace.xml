@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cec372cb-d0f7-4264-b0d3-31fe9c9271e6" name="Default Changelist" comment="90 percent completed">
+      <change afterPath="$PROJECT_DIR$/lib/Screens/experts.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/functions/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/WeatherScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/WeatherScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/tlight.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/tlight.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/Market_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/Market_card.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1juq5hmLyt3giidH6NEM6XYkOV9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/widgets" />
+      <recent name="$PROJECT_DIR$/assets/locale" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/Screens" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/android/app" />
+      <recent name="$PROJECT_DIR$/android/app/src" />
+      <recent name="$PROJECT_DIR$/android/app/src/debug" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cec372cb-d0f7-4264-b0d3-31fe9c9271e6" name="Default Changelist" comment="" />
+      <created>1604664142590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604664142590</updated>
+    </task>
+    <task id="LOCAL-00001" summary="With resources">
+      <created>1604665100836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604665100836</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gg">
+      <created>1604667326500</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604667326500</updated>
+    </task>
+    <task id="LOCAL-00003" summary="u">
+      <created>1604667562142</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604667562142</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hjhj">
+      <created>1604671803499</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604671803499</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Login feature added'">
+      <created>1604687074356</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604687074356</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Functionality added...">
+      <created>1604718496154</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604718496154</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changed">
+      <created>1604719244989</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604719244989</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Buy Sell mid completed">
+      <created>1604743218761</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604743218761</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Video Call">
+      <created>1604779151944</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604779151944</updated>
+    </task>
+    <task id="LOCAL-00010" summary="90 percent completed">
+      <created>1604808034422</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604808034422</updated>
+    </task>
+    <task id="LOCAL-00011" summary="90 percent completed">
+      <created>1604808382961</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604808382961</updated>
+    </task>
+    <task id="LOCAL-00012" summary="90 percent completed">
+      <created>1604810850151</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604810850151</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="With resources" />
+    <MESSAGE value="gg" />
+    <MESSAGE value="u" />
+    <MESSAGE value="hjhj" />
+    <MESSAGE value="Login feature added'" />
+    <MESSAGE value="Functionality added..." />
+    <MESSAGE value="changed" />
+    <MESSAGE value="Buy Sell mid completed" />
+    <MESSAGE value="Video Call" />
+    <MESSAGE value="90 percent completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="90 percent completed" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="59" key="GridCell.Tab.0.bottom" timestamp="1618805993230">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="59" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1618805993230" />
+    <state width="1398" height="59" key="GridCell.Tab.0.center" timestamp="1618805993229">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="59" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1618805993229" />
+    <state width="1398" height="59" key="GridCell.Tab.0.left" timestamp="1618805993228">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="59" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1618805993228" />
+    <state width="1398" height="59" key="GridCell.Tab.0.right" timestamp="1618805993229">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="59" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1618805993229" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/Screens/sellerInfo.dart</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/Screens/buy_screen.dart</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
